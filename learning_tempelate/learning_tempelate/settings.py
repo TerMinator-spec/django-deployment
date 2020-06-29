@@ -25,7 +25,7 @@ SECRET_KEY = 'wt)akp+y0el0%iq#ke3patsg=xo0kg)#6h)aeg-$x%d7gv1tu_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tonypython.pythonanywhere.com']
+ALLOWED_HOSTS = ['https://tonypython.pythonanywhere.com']
 
 
 # Application definition
